@@ -1,0 +1,137 @@
+main{   
+
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+
+.flower-t{
+    color: #272727;
+    font-size: 30px;
+    font-weight: 800;
+    padding: 30px 0px;
+}
+.flower-p {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 12px;
+    font-weight: 400;
+    padding-bottom: 40px;
+}
+
+.flower-img{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.flower-imgs {
+    height: 200px;
+    padding: 50px 25px 0px 25px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+.flower-tag {
+    color: #272727;
+    font-size: 15px;
+    font-weight: 700;
+    text-decoration-line: underline;
+    margin-bottom: 40px;
+}
+
+
+.support-s {
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    display: flex;
+    justify-content: space-around;
+    margin: 40px 20% 80px;
+}
+.support{
+    margin: 30px;
+    padding: 5px 5px;
+}
+
+.support-p{
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-size: 15px;
+    font-weight: 400;
+}
+.support-img {
+    height: 40px ;
+}
+
+
+.off {
+    display: flex;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    margin-bottom: 50px;
+}
+
+.off-text{
+    padding: 120px 0px 0px 100px;
+}
+
+
+.off-sp{
+    width: 50%;
+}
+.off-t{
+    color: #272727;
+    font-size: 30px;
+    font-weight: 800;
+}
+.off-p{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 15px;
+    font-weight: 400;
+    padding: 20px 0;
+}
+.off-but{
+    padding: 12px 30px;
+    gap: 10px;
+    border-radius: 8px;
+    background: #E55473;    
+    box-shadow: 1px 1px 5px black;
+    border-style: none;
+    color: white;
+}
+.offtt {
+    color: #E55473;
+}
+
+.off-img {
+    height: 300px;
+    margin: 40px;
+}
+
+
+
+
+
+.ins-t{
+    color: #272727;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 800;
+
+}
+.ins-p{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 12px;
+    font-weight: 400;
+    padding: 20px;
+    line-break: 50px;
+}
+.ins{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+.ins-pic{
+    height: 240px;
+}
