@@ -124,7 +124,6 @@ main{
     font-size: 12px;
     font-weight: 400;
     padding: 20px;
-    line-break: 50px;
 }
 .ins{
     display: flex;
@@ -135,3 +134,70 @@ main{
 .ins-pic{
     height: 240px;
 }
+
+
+
+
+
+
+
+
+.sub {
+    background-image: url(Rectangle9.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 60px;
+    padding: 90px 0px;
+    background-size: 1200px 400px;
+}
+
+
+.sub-t{
+    color: #272727;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
+.sub-p{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 13px;
+    font-weight: 600;
+    padding: 10px 0px 20px 0px;
+}
+
+#sub-email{
+    border-radius: 2px;
+    background: #FFF;
+    padding: 12px 230px 12px 10px;    
+    border-style: none;
+}
+.sub-but {
+    color: #FFF; 
+    padding: 12px 30px;
+    gap: 10px;
+    border-radius: 2px;
+    background: #E55473;    
+    box-shadow: 1px 1px 5px black;
+    border-style: none; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

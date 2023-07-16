@@ -35,3 +35,35 @@
 .header img {
     margin-top: 50px;
 }
+
+
+footer{
+    background-color: #111010;
+    padding: 100px;
+    text-align: center;
+}
+
+.footer-t{
+    color: #ec4e71;
+    font-size: 48px;
+    font-weight: 700;
+}
+.footer-span {
+    color: #ffff;
+}
+.footer-p{
+    color: rgba(255, 255, 255, 0.753);
+    font-family: Lato;
+    font-size: 15px;
+    font-weight: 200;  
+    padding: 15px 0px 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.footer-cap{
+    color: rgba(172, 169, 169, 0.548);
+    font-size: 16px;
+    font-weight: 400;   
+    
+}
+
+
